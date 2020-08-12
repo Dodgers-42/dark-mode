@@ -127,4 +127,3 @@ After finishing your required elements, you can push your work further. These go
 
 - Look into the recharts library and build a new chart. Or change the appearence of the charts we built out here. Maybe when you toggle to dark mode, the line on the chart could change colors! There's a lot you can do with this library. Explore and have fun!
 
-yep
