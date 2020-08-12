@@ -9,7 +9,7 @@ const useDarkMode = (key) => {
             if (darkMode){
                 document.querySelector("body").classList.add("dark-mode");
             } else {
-                document.querySelector("bodhy").classList.remove("dark-mode");
+                document.querySelector("body").classList.remove("dark-mode");
             }
         }, [darkMode]);
 
